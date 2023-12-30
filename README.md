@@ -1,4 +1,4 @@
-[<img src="https://github.com/arononak/gold-silver-price-gnome-extension/blob/main/docs/get-it.png?raw=true" height="100" align="right">](https://extensions.gnome.org/extension/6643/gold-silver-price/)
+[<img src="https://github.com/arononak/gold-silver-price-gnome-extension/blob/main/get-it.png?raw=true" height="100" align="right">](https://extensions.gnome.org/extension/6643/gold-silver-price/)
 
 # Gold Silver Price Gnome Extension 💰
 
