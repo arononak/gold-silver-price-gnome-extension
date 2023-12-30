@@ -8,6 +8,8 @@
 
 ![](https://github.com/arononak/gold-silver-price-gnome-extension/blob/main/preview.png?raw=true)
 
+This extension uses https://www.google.com/finance
+
 # 📝 License
 
 > [!NOTE]

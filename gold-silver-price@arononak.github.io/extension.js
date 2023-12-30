@@ -67,7 +67,7 @@ function executeCommandAsync(command) {
     });
 }
 
-export default class ExampleExtension extends Extension {
+export default class GoldSilverPriceGnomeExtension extends Extension {
     enable() {
         this._silverButton = new St.Button({ label: "" });
         this._silverButton.connect('clicked', () => openUrl('https://www.google.com/finance/quote/SIW00:COMEX'));
@@ -91,11 +91,13 @@ export default class ExampleExtension extends Extension {
         clearInterval(this.refreshInterval)
         this.refreshInterval = null
 
-        this._goldIndicator?.destroy();
-        this._goldIndicator = null;
-
         this._silverIndicator?.destroy();
         this._silverIndicator = null;
+        this._silverButton = null;
+
+        this._goldIndicator?.destroy();
+        this._goldIndicator = null;
+        this._goldButton = null;
     }
 
     downloadData() {
