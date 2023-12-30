@@ -1,0 +1,9 @@
+{
+  "name": "Gold Silver Price",
+  "description": "Shows the current price of Gold and Silver.\n\ncurl is requried.\n\nLove this extension? give me a star on github.",
+  "shell-version": ["45"],
+  "version": 1,
+  "original-authors": ["arononak@gmail.com"],
+  "url": "https://github.com/arononak/gold-silver-price-gnome-extension",
+  "uuid": "gold-silver-price@arononak.github.io"
+}
