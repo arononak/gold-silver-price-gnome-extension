@@ -1,7 +1,7 @@
 {
   "name": "Gold Silver Price",
   "description": "Shows the current price of Gold and Silver.\n\ncurl is requried.\n\nLove this extension? give me a star on github.\n\nThis extension uses https://www.google.com/finance",
-  "shell-version": ["45"],
+  "shell-version": ["48"],
   "version": 1,
   "original-authors": ["arononak@gmail.com"],
   "url": "https://github.com/arononak/gold-silver-price-gnome-extension",
